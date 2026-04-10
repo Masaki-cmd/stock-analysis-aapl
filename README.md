@@ -1,1 +1,3 @@
-# stock-analysis-aapl
+## 結論
+AAPLは平均リターンが安定しており、リスクも極端に高くないため、
+長期投資対象として有望と考えられる。# stock-analysis-aapl
